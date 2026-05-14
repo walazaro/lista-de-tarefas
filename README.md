@@ -9,9 +9,6 @@ Projeto desenvolvido para atividade acadêmica.
 
 ## Tecnologias usadas
 - HTML
-- CSS
-- JavaScript
-
 ## Como executar
 1. Faça o download dos arquivos
 2. Abra o arquivo index.html no navegador
